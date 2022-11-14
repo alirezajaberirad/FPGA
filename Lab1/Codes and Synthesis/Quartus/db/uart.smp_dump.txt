@@ -1,0 +1,23 @@
+
+State Machine - |uart|cu:CU|Ps
+Name Ps.011 Ps.010 Ps.001 Ps.000 Ps.100 
+Ps.000 0 0 0 0 0 
+Ps.001 0 0 1 1 0 
+Ps.010 0 1 0 1 0 
+Ps.011 1 0 0 1 0 
+Ps.100 0 0 0 1 1 
+
+State Machine - |uart|cu:CU|ps
+Name ps.00 ps.10 ps.01 
+ps.00 0 0 0 
+ps.01 1 0 1 
+ps.10 1 1 0 
+
+State Machine - |uart|dp:DP|FIR:inst1|ctrlUnit:cu|ps
+Name ps.outputReady ps.accumulate ps.add ps.multiply ps.getInput ps.init 
+ps.init 0 0 0 0 0 0 
+ps.getInput 0 0 0 0 1 1 
+ps.multiply 0 0 0 1 0 1 
+ps.add 0 0 1 0 0 1 
+ps.accumulate 0 1 0 0 0 1 
+ps.outputReady 1 0 0 0 0 1 

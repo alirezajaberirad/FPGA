@@ -1,0 +1,452 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\UT Courses\Semester 9\DLD1 lab\Exp1\Part3
+vadder
+Z1 !s100 K9hl7?niE?hoRn_zYheTA3
+Z2 I4BzbSR^fN2lE3f@_F_Z412
+Z3 VfPYONF=ddlXb2aI=00WWS2
+Z4 dD:\UT Courses\Semester 9\FPGA\Lab\NEW CODE
+Z5 w1634641763
+Z6 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/adder.v
+Z7 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1637129551.171000
+Z12 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vasync_receiver
+Z13 !s100 ]?N?og1kf]5GB>GVG1[5n0
+Z14 IU`3G[8I`laJW1VD>ITHgo2
+Z15 V:Kc3Na=>?j6i<dhjQ651n3
+R4
+Z16 w1637088239
+Z17 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_receiver.v
+Z18 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_receiver.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_receiver.v|
+R10
+Z20 !s108 1637129551.272000
+Z21 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_receiver.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vasync_transmitter
+Z22 !s100 gP70Gk4LXol^H:<T1[I;e2
+Z23 I>B?Lb>4@cH8Szg_0b95TV3
+Z24 VQ9FPNaTYMZC[A]JK5JECd0
+R4
+Z25 w1637090483
+Z26 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_transmitter.v
+Z27 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_transmitter.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_transmitter.v|
+R10
+Z29 !s108 1637129551.373000
+Z30 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_transmitter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBaudTickGen
+Z31 !s100 _]BNkcb7`27CSlFb@YozK3
+Z32 IVNcGaUTo<ZI[3beBM^Wne3
+Z33 V1Z8mL?f>4iLdST@Hf>1NQ3
+R4
+Z34 w1636761121
+Z35 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/BaudTickGen.v
+Z36 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/BaudTickGen.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/BaudTickGen.v|
+R10
+Z38 n@baud@tick@gen
+Z39 !s108 1637129551.440000
+Z40 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/BaudTickGen.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcoeffsMem
+Z41 !s100 Q9HiA;A03=IjOX710_K4n1
+Z42 IGIYeO=l@T0OC>ZoXQDE841
+Z43 VSSlk:6mTieiB:izYWNB3a1
+R4
+Z44 w1637088737
+Z45 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/coeffsMem.v
+Z46 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/coeffsMem.v
+L0 1
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/coeffsMem.v|
+R10
+Z48 ncoeffs@mem
+Z49 !s108 1637129551.521000
+Z50 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/coeffsMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z51 !s100 dMCXl1AZJ;[kZfm@0MFdh3
+Z52 IPJbm=McYZ^<8o3m;BL31e3
+Z53 V^GP6cD0MnJMOTY=JmNd7S1
+R4
+Z54 w1636800154
+Z55 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/cu.v
+Z56 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/cu.v
+L0 1
+R8
+r1
+31
+Z57 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/cu.v|
+R10
+Z58 !s108 1636802858.842000
+Z59 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/cu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+Z60 !s100 QPiK369g0]Fh_R0=1l<]73
+Z61 Ie]^o2gHg>6ba9L7k8KU[50
+Z62 VnTz]C<[YI[dCMG_16;^hO2
+R4
+Z63 w1634650687
+Z64 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/counter.v
+Z65 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/counter.v
+L0 1
+R8
+r1
+31
+Z66 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/counter.v|
+R10
+Z67 !s108 1637129551.620000
+Z68 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vctrlUnit
+Z69 !s100 =L5QZXY=iS:524IEYD3F30
+Z70 I;:LTLmnj8ga2Q7@z7kn@f1
+Z71 V92M0Oc><B;06mJR9M_BPY0
+R4
+Z72 w1634650852
+Z73 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/ctrlUnit.v
+Z74 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/ctrlUnit.v
+L0 1
+R8
+r1
+31
+Z75 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/ctrlUnit.v|
+R10
+Z76 nctrl@unit
+Z77 !s108 1637129551.723000
+Z78 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/ctrlUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcu
+Z79 !s100 CYkmigz94@QCQGDH6G[1A2
+Z80 I;=mLc[mcWT>h^kPO;Z2;O2
+Z81 VCkoGECP4^PdR`]9Qg6z_53
+R4
+Z82 w1637079643
+R55
+R56
+L0 1
+R8
+r1
+31
+R57
+R10
+Z83 !s108 1637129551.827000
+R59
+!i10b 1
+!s85 0
+!s101 -O0
+vDataPath
+Z84 !s100 gem9O:K0HoNBY`ohSITo40
+Z85 IY4=m7aOBLYDaU9b8m^=In0
+Z86 VmVHCAPnh]=h42zG;jg2JH0
+R4
+Z87 w1636799154
+Z88 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/dp.v
+Z89 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/dp.v
+L0 1
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/dp.v|
+R10
+Z91 n@data@path
+Z92 !s108 1636802858.931000
+Z93 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/dp.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z94 !s100 gc9>cY0a:m;h`<DYZ=PWg3
+Z95 InQ=4SKRV0YDPTZQZm9DzO0
+Z96 Vdm_PP8Y?FbU8c6Q4Z8AR^1
+R4
+Z97 w1634639357
+Z98 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/datapath.v
+Z99 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/datapath.v
+L0 1
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/datapath.v|
+R10
+Z101 !s108 1637129551.926000
+Z102 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdp
+Z103 IiKNeIgnbLg[Aj4T1K[M?12
+Z104 V3H=edEQP^278P9HS>=<]O2
+R4
+Z105 w1637128936
+R88
+R89
+L0 1
+R8
+r1
+31
+R90
+R10
+Z106 !s100 5=]BA8UC2?Rn=jU_hmQAS1
+Z107 !s108 1637129552.028000
+R93
+!i10b 1
+!s85 0
+!s101 -O0
+vFIR
+Z108 !s100 niILGbKN@3ob89faD;GP_0
+Z109 Ieoa<Dbn=T63S:VKlYMJ`Y2
+Z110 VGOckFOJF;SnUaJ?:HRIc@0
+R4
+Z111 w1636798949
+Z112 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/FIR.v
+Z113 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/FIR.v
+L0 1
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/FIR.v|
+R10
+Z115 n@f@i@r
+Z116 !s108 1637129553.261000
+Z117 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/FIR.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinputsMem
+Z118 !s100 3f:3_W0]51TO7OF4E7>MP1
+Z119 II98nfiCPV:1OUQbo]7KQH1
+Z120 V5ejE0[8GeXS8<]XW3BPjZ3
+R4
+Z121 w1634647391
+Z122 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/inputsMem.v
+Z123 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/inputsMem.v
+L0 1
+R8
+r1
+31
+Z124 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/inputsMem.v|
+R10
+Z125 ninputs@mem
+Z126 !s108 1637129553.441000
+Z127 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/inputsMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z128 !s100 eC=RQm=7fz^Xl@3nCJh9V2
+Z129 IO[ZODQn3TZSGPJ507IjiO2
+Z130 VMO0cf<@<d5JYGfhi[W[aB0
+R4
+Z131 w1634634665
+Z132 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/multiplier.v
+Z133 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/multiplier.v
+L0 1
+R8
+r1
+31
+Z134 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/multiplier.v|
+R10
+Z135 !s108 1637129553.616000
+Z136 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmyFIR_tb
+Z137 !s100 ic1P;kYNT0RXci4m8eikn3
+Z138 IXKIfZ^Q5<@nX2KZ=cdW;h0
+Z139 V19EJG:Lg<3]BE6]b5W?G^3
+R4
+Z140 w1634648427
+Z141 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/myFIR_tb.v
+Z142 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/myFIR_tb.v
+L0 6
+R8
+r1
+31
+Z143 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/myFIR_tb.v|
+R10
+Z144 nmy@f@i@r_tb
+Z145 !s108 1637129553.747000
+Z146 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/myFIR_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vR_reg
+Z147 !s100 k<@og`J[4W3USJhC;5kAD1
+Z148 IO>ENY2C;a624iJZMI`j]O0
+Z149 V>S@;4VKa@TBV]_i0d46;:0
+R4
+Z150 w1636801508
+Z151 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/R_reg.v
+Z152 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/R_reg.v
+L0 1
+R8
+r1
+31
+Z153 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/R_reg.v|
+R10
+Z154 n@r_reg
+Z155 !s108 1637129553.947000
+Z156 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/R_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister
+Z157 !s100 Wgh`L9@MOh2zzXjUK<N<e1
+Z158 IW:e1Gi:;ShTD<jd<]VGS02
+Z159 Vl5ZE5AkD5>P<T2_B_9ieO0
+R4
+Z160 w1634650498
+Z161 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/register.v
+Z162 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/register.v
+L0 1
+R8
+r1
+31
+Z163 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/register.v|
+R10
+Z164 !s108 1636802559.248000
+Z165 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vT_reg
+Z166 !s100 @alOG=HCX[F@K9256:JV<0
+Z167 I]k2iRo:XM36Xzi4okfQlA1
+Z168 VzbZF[d2db?HZ1[@G]6=n`2
+R4
+Z169 w1636802855
+Z170 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/T_reg.v
+Z171 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/T_reg.v
+L0 1
+R8
+r1
+31
+Z172 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/T_reg.v|
+R10
+Z173 n@t_reg
+!i10b 1
+!s85 0
+Z174 !s108 1637129554.071000
+Z175 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/T_reg.v|
+!s101 -O0
+vtest
+Z176 !s100 bPULbUfXJYgI;hT3QQjm03
+Z177 IGNR8R9f?T>04d:oKJf]db0
+Z178 Vk<3<[f=78GX=_HO53D;7>3
+R4
+Z179 w1637055378
+Z180 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/test.v
+Z181 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/test.v
+L0 2
+R8
+r1
+31
+Z182 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/test.v|
+R10
+Z183 !s108 1637129553.844000
+Z184 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+Z185 !s100 M6X;kfBVh_C?H]7d8LlG]1
+Z186 IN`25JY6j8]>U=cgEHm5D]0
+Z187 VhGfW:390DM[oDMzegDH9`2
+R4
+Z188 w1637054270
+Z189 8D:\UT Courses\Semester 9\FPGA\Lab\NEW CODE\test.v
+Z190 FD:\UT Courses\Semester 9\FPGA\Lab\NEW CODE\test.v
+L0 2
+R8
+r1
+31
+Z191 !s90 -reportprogress|300|-work|work|D:\UT Courses\Semester 9\FPGA\Lab\NEW CODE\test.v|
+R10
+Z192 !s108 1637055123.169000
+Z193 !s107 D:\UT Courses\Semester 9\FPGA\Lab\NEW CODE\test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart
+!i10b 1
+!s100 GEz`_;P>VMIPGOL08kLPk3
+IF^ED0f;kG@47;V:VVbKFG0
+Z194 V8?V6eUiR^liL=D7he0m4b1
+R4
+w1637129511
+Z195 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.vo
+Z196 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.vo
+L0 31
+R8
+r1
+!s85 0
+31
+!s108 1637129554.187000
+!s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.vo|
+Z197 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.vo|
+!s101 -O0
+R10
+vUART
+Z198 !s100 LL[_V=3boJck]:5kGa>Fn2
+Z199 I0<83:Ym36RRgiS<F822Jo1
+Z200 V2mzz]kk:Y6GdzSFZ41hma0
+R4
+Z201 w1636797842
+Z202 8D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.v
+Z203 FD:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.v
+L0 1
+R8
+r1
+31
+Z204 !s90 -reportprogress|300|-work|work|D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.v|
+R10
+Z205 n@u@a@r@t
+Z206 !s108 1636802859.211000
+Z207 !s107 D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.v|
+!i10b 1
+!s85 0
+!s101 -O0

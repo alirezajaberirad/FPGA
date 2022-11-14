@@ -1,0 +1,127 @@
+{D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/dp.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/dp.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dp
+
+Top level modules:
+	dp
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/myFIR_tb.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/myFIR_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module myFIR_tb
+
+Top level modules:
+	myFIR_tb
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/datapath.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/test.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/adder.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/adder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/FIR.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/FIR.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FIR
+
+Top level modules:
+	FIR
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_transmitter.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_transmitter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module async_transmitter
+
+Top level modules:
+	async_transmitter
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/inputsMem.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/inputsMem.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module inputsMem
+
+Top level modules:
+	inputsMem
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/coeffsMem.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/coeffsMem.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module coeffsMem
+
+Top level modules:
+	coeffsMem
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/ctrlUnit.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/ctrlUnit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ctrlUnit
+
+Top level modules:
+	ctrlUnit
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/multiplier.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/multiplier.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/R_reg.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/R_reg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module R_reg
+
+Top level modules:
+	R_reg
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/counter.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/cu.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/cu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cu
+
+Top level modules:
+	cu
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/BaudTickGen.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/BaudTickGen.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BaudTickGen
+
+Top level modules:
+	BaudTickGen
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/T_reg.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/T_reg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module T_reg
+
+Top level modules:
+	T_reg
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_receiver.v} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/async_receiver.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module async_receiver
+
+Top level modules:
+	async_receiver
+
+} {} {}} {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.vo} {1 {vlog -work work {D:/UT Courses/Semester 9/FPGA/Lab/NEW CODE/uart.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart
+
+Top level modules:
+	uart
+
+} {} {}}

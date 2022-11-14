@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="uart">
+		<CBX_INST_ENTRY INSTANCE_NAME="|uart|dp:DP|FIR:inst1|datapath:dp|coeffsMem:coMem|altsyncram:memory_rtl_0" CBX_FILE_NAME="altsyncram_0r61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|uart|dp:DP|FIR:inst1|datapath:dp|multiplier:mult|lpm_mult:Mult0" CBX_FILE_NAME="mult_h1t.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at inputsMem.v(19): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at cu.v(18): object "ps" differs only in case from object "Ps" in the same scope
+Info (10281): Verilog HDL Declaration information at cu.v(18): object "ns" differs only in case from object "Ns" in the same scope
